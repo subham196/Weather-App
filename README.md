@@ -120,4 +120,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Subham**
 - GitHub: [@subham196](https://github.com/subham196)
-- LinkedIn: (www.linkedin.com/in/subhampratapsingh27)
+- LinkedIn: [Subham Pratap Singh](https://linkedin.com/in/subhampratapsingh27)
